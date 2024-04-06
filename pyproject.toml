@@ -1,0 +1,23 @@
+[virtualenvs]
+in-project = true
+
+[tool.poetry]
+name = "crypto-quant-lab"
+version = "0.1.0"
+description = "developing precise cryptocurrency trading strategies using data-driven techniques and quantitative analysis. It's a collaborative hub for refining predictive models and exploring innovative trading methods in the crypto market."
+authors = ["martin-fabbri <martin.fabbri.a@gmail.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+finlab-crypto = "^0.2.27"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.4"
+jupyterlab = "^4.1.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
