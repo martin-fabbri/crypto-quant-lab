@@ -15,6 +15,9 @@ Develop precise trading strategies using data-driven techniques and quantitative
 Concepts: `sentiment dynamics` `influence propagation` `transaction patterns` `market manipulation` 
 - [ ] [EX-Graph](https://ex-graph.pages.dev/) 
 
+- The Case For Market Simulation to Validate Strategy
+    - How to add uncertainty? 
+
 ## References
 - https://storage.googleapis.com/xavierbresson/index.html
 - https://github.com/xbresson/GML2023
