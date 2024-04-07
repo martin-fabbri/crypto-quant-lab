@@ -12,6 +12,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 finlab-crypto = "^0.2.27"
+pandas-ta = "^0.3.14b0"
+mplfinance = "^0.12.10b0"
 
 
 [tool.poetry.group.dev.dependencies]
