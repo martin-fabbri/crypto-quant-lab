@@ -10,3 +10,7 @@ Todos:
 
 Backlog:
 - [] [Data Driven Dimensionality Reduction to Improve Modeling Performance] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4485887)
+
+- Explore Onchain and Offchain dynamics and relations:
+Concepts: `sentiment dynamics` `influence propagation` `transaction patterns` `market manipulation` 
+- [ ] [EX-Graph](https://ex-graph.pages.dev/) 
