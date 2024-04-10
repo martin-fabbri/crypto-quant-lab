@@ -14,6 +14,12 @@ poetry env use python3.10
 
 
 ## Backlog
+- ** Microprice. Stoikov
+  https://github.com/sstoikov/microprice/tree/master
+  https://www.youtube.com/watch?v=0ZHypIAxYNo&t=29s
+
+  Where market making meets market microstructure
+  https://www.youtube.com/watch?v=S7eig5VXFpY
 - [] [Data Driven Dimensionality Reduction to Improve Modeling Performance] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4485887)
 
 - Explore Onchain and Offchain dynamics and relations:
@@ -38,6 +44,12 @@ Concepts: `sentiment dynamics` `influence propagation` `transaction patterns` `m
 
 - Back Testing
 https://hftbacktest.readthedocs.io/en/latest/tutorials/Data%20Preparation.html
+
+
+## Data Platforms
+- *** https://platform.arkhamintelligence.com/
+- *** https://thegraph.com/
+- * https://app.nansen.ai/
 
 ## Books
 
