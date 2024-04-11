@@ -49,11 +49,24 @@ https://hftbacktest.readthedocs.io/en/latest/tutorials/Data%20Preparation.html
 ## Data Platforms
 - **** https://platform.arkhamintelligence.com/
 - **** https://thegraph.com/
-- ** https://app.nansen.ai/
+- **   https://tokenterminal.com/    (Fundamentals)
+- **   https://metasleuth.io/        (Phishing)
+- **   https://app.nansen.ai/
+
+## Curated Crypto Research Tools 
+https://github.com/AsharibAli/crypto-research-tools?tab=readme-ov-file
+
+## OpsSec
+
+https://github.com/OffcierCia
+https://github.com/OffcierCia/On-Chain-Investigations-Tools-List
 
 ## Project
 
 - https://github.com/hgnx/nansen-tx-visualizer
+
+## YT Channels
+**** https://www.youtube.com/@DataDash  (Market Analysis)
 
 ## Books
 
@@ -65,6 +78,11 @@ https://hftbacktest.readthedocs.io/en/latest/tutorials/Data%20Preparation.html
 
 - High-Frequency Trading 2nd Edition
   by Irene Aldridge 2013
+
+- Bishop DL -> https://www.amazon.com/Deep-Learning-Foundations-Christopher-Bishop/dp/3031454677/ref=asc_df_3031454677/?tag=hyprod-20&linkCode=df0&hvadid=680505684886&hvpos=&hvnetw=g&hvrand=3078582242285219316&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1024453&hvtargid=pla-2205744745915&psc=1&mcid=2fa57c30f765309fba2ffbcd72cb9abc&gad_source=1&asin=3031454677&revisionId=&format=4&depth=1
+
+- 
+Multi horizon forecasting for limit order books
 
 ## References
 - https://storage.googleapis.com/xavierbresson/index.html
