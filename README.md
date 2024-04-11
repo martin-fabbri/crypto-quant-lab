@@ -26,6 +26,28 @@ poetry env use python3.10
 Concepts: `sentiment dynamics` `influence propagation` `transaction patterns` `market manipulation` 
 - [ ] [EX-Graph](https://ex-graph.pages.dev/) 
 
+*** Multi horizon forecasting for limit order books
+    Leveraging CV for Analysys?
+    https://www.youtube.com/watch?v=U6uY1RdA6VY&t=718s
+    https://github.com/zcakhaa/DeepLOB-Deep-Convolutional-Neural-Networks-for-Limit-Order-Books/tree/master
+    https://arxiv.org/pdf/1808.03668.pdf
+    ** https://github.com/S-razmi/DeepLOB/blob/main/main.ipynb
+    https://github.com/yuxiangalvin/DeepLOB-Model-Implementation-Project/tree/main/src
+    *** https://github.com/YJiangcm/improved_DeepLOB
+    https://github.com/Jeonghwan-Cheon/lob-deep-learning
+    *** https://github.com/S-razmi/DeepLOB
+    https://github.com/LeonardoBerti00/Multi-Horizon-Forecasting-for-Limit-Order-Books
+    https://www.youtube.com/watch?v=-N8qIrfVL-E
+    *** https://www.youtube.com/watch?v=ExOCRH-aXMM&t=1129s
+
+*** Temporal CNN for forecasting
+    Probabilistic Forecasting with Temporal Convolutional Neural Network
+    https://github.com/unit8co/darts/blob/develop-bak/examples/10-DeepTCN-examples.ipynb
+    https://github.com/unit8co/darts/blob/develop-bak/examples/06-TCN-examples.ipynb
+    https://unit8.com/resources/temporal-convolutional-networks-and-forecasting/
+
+
+
 - The Case For Market Simulation to Validate Strategy
     - How to add uncertainty? 
 
@@ -81,8 +103,6 @@ https://github.com/OffcierCia/On-Chain-Investigations-Tools-List
 
 - Bishop DL -> https://www.amazon.com/Deep-Learning-Foundations-Christopher-Bishop/dp/3031454677/ref=asc_df_3031454677/?tag=hyprod-20&linkCode=df0&hvadid=680505684886&hvpos=&hvnetw=g&hvrand=3078582242285219316&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1024453&hvtargid=pla-2205744745915&psc=1&mcid=2fa57c30f765309fba2ffbcd72cb9abc&gad_source=1&asin=3031454677&revisionId=&format=4&depth=1
 
-- 
-Multi horizon forecasting for limit order books
 
 ## References
 - https://storage.googleapis.com/xavierbresson/index.html
