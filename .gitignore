@@ -152,6 +152,14 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Exclude M5 dataset files
+data/m5-forecasting-accuracy.zip
+data/sales_train_evaluation.csv
+data/sales_train_validation.csv
+data/sample_submission.csv
+data/sell_prices.csv
+data/calendar.csv
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
