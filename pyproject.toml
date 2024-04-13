@@ -23,6 +23,9 @@ statsmodels = "^0.14.1"
 pandas = "^2.2.1"
 matplotlib = "^3.8.4"
 seaborn = "^0.13.2"
+statsforecast = "^1.7.4"
+datasetsforecast = "^0.0.8"
+neuralforecast = "1.6.4"
 
 
 [tool.poetry.group.dev.dependencies]

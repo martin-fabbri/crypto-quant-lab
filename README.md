@@ -101,6 +101,8 @@ https://github.com/OffcierCia/On-Chain-Investigations-Tools-List
 - High-Frequency Trading 2nd Edition
   by Irene Aldridge 2013
 
+- https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master
+
 - Bishop DL -> https://www.amazon.com/Deep-Learning-Foundations-Christopher-Bishop/dp/3031454677/ref=asc_df_3031454677/?tag=hyprod-20&linkCode=df0&hvadid=680505684886&hvpos=&hvnetw=g&hvrand=3078582242285219316&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1024453&hvtargid=pla-2205744745915&psc=1&mcid=2fa57c30f765309fba2ffbcd72cb9abc&gad_source=1&asin=3031454677&revisionId=&format=4&depth=1
 
 
