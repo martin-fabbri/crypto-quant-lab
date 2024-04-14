@@ -160,6 +160,12 @@ data/sample_submission.csv
 data/sell_prices.csv
 data/calendar.csv
 
+# Pytorch Lightning Logs
+notebooks/time-series/lightning_logs/
+
+# Long Horizon Dataset
+notebooks/time-series/longhorizon/
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
