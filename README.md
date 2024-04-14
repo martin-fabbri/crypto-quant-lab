@@ -67,6 +67,13 @@ Concepts: `sentiment dynamics` `influence propagation` `transaction patterns` `m
 - Back Testing
 https://hftbacktest.readthedocs.io/en/latest/tutorials/Data%20Preparation.html
 
+## Use of OnChain Data
+- [Cryptocurrency Valuation: An Explainable AI Approach](https://arxiv.org/pdf/2201.12893.pdf)
+  - [] Discussion added to DOCs
+  - [] Review companion github repo. https://github.com/SciEcon/CV_XAI
+  - [] YT talk (https://www.youtube.com/watch?v=G5Hnuyt3j7c&t=2s)
+
+ - Review https://github.com/SciEcon for Discord Sentiment Bot  
 
 ## Data Platforms
 - **** https://platform.arkhamintelligence.com/
