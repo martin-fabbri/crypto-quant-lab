@@ -72,8 +72,7 @@ https://hftbacktest.readthedocs.io/en/latest/tutorials/Data%20Preparation.html
   - [] Discussion added to DOCs
   - [] Review companion github repo. https://github.com/SciEcon/CV_XAI
   - [] YT talk (https://www.youtube.com/watch?v=G5Hnuyt3j7c&t=2s)
-
- - Review https://github.com/SciEcon for Discord Sentiment Bot  
+ cvbnm ,./  qawertyuiolp[]\]  
 
 ## Data Platforms
 - **** https://platform.arkhamintelligence.com/
