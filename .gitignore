@@ -166,6 +166,9 @@ notebooks/time-series/lightning_logs/
 # Long Horizon Dataset
 notebooks/time-series/longhorizon/
 
+# Remove Service Accounts
+notebooks/big-query/protean-trilogy-419007-2465e87bee87.json
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

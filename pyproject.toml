@@ -26,6 +26,8 @@ seaborn = "^0.13.2"
 statsforecast = "^1.7.4"
 datasetsforecast = "^0.0.8"
 neuralforecast = "1.7.1"
+sanpy = "^0.12.0"
+python-dotenv = "^1.0.1"
 
 
 [tool.poetry.group.dev.dependencies]
