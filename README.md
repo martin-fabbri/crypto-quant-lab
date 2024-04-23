@@ -14,6 +14,23 @@ poetry env use python3.10
 
 
 ## Backlog
+- *** CNN for Trading
+  https://www.richardsong.space/cnn-for-trading
+  https://github.com/lich99/Stock_CNN
+  https://medium.com/@iblanco_finance/how-to-build-trading-strategies-from-candelstick-images-64e4fb6ab46c
+
+- *** Spatiotemporal Transformer for Stock Movement Prediction
+  https://arxiv.org/abs/2305.03835
+  STTRE: A Spatio-Temporal Transformer with Relative Embeddings for multivariate time series forecasting
+  https://www.sciencedirect.com/science/article/pii/S0893608023005361
+  https://github.com/QData/spacetimeformer
+  https://openreview.net/forum?id=2sCcTMWPc2
+  https://github.com/AzadDeihim/STTRE/blob/main/STTRE.ipynb
+  
+
+
+
+
 - ** Microprice. Stoikov
   https://github.com/sstoikov/microprice/tree/master
   https://www.youtube.com/watch?v=0ZHypIAxYNo&t=29s
